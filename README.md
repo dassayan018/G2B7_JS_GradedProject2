@@ -1,1 +1,1 @@
-Go to folder location and write npm start to start the execution
+Go to folder location and write npm start on command prompt to start the execution
